@@ -1,3 +1,3 @@
 # squash-merge
 
-my branch : vui
+my branch :
