@@ -5,5 +5,6 @@ public class VUI {
         System.out.println("[vui] 2nd commit!");
         System.out.println("[vui] 3rd commit!");
         System.out.println("[vui] 4th commit!");
+        System.out.println("[vui] 5th commit!");
     }
 }
