@@ -1,3 +1,3 @@
 # squash-merge
 
-my branch : only master
+my branch : only master and local exp
